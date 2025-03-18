@@ -8,6 +8,7 @@
 - 💪 Served as a Core Graphic Team Member for GDGoC in 2023 and 2024
 - 🔄 Passionate about automation, workflow optimization, and backend development
 - 🌱 Expertise in Python and JavaScript for backend solutions
+-  Fun fact 💻 Coding, 🎨 designing, and catching 💤 – my perfect day!
 
 ## 💎 Featured Projects:
 ### 🛠️ ITSM Solutions Development
