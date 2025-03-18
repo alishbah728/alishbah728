@@ -10,6 +10,8 @@
 - 🌱 Expertise in Python and JavaScript for backend solutions
 - ⚡Fun fact 💻 Coding, 🎨 designing, and catching 💤 – my perfect day!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alishbah728&label=Profile%20views&color=a1adb5&style=flat" alt="alishbah728" /> </p>
+
 ## 💎 Featured Projects:
 ### 🛠️ ITSM Solutions Development
 - Working on streamlining IT service management workflows in ServiceNow
