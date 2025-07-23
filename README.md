@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alishba Ahmed</h1>
-<h3 align="center">ServiceNow Developer | ServiceNow Admin | Transforming Digital Workflows | Graphic Designer | Backend Developer</h3>
+<h3 align="center">ServiceNow Developer | ServiceNow Admin | Backend Developer | Graphic Designer | Transforming Digital Workflows</h3>
 
 # ✨ About Me:
 - 🔬 ServiceNow Developer & Admin with experience in ITSM and CMDB solutions
