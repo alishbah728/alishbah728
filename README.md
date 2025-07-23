@@ -3,7 +3,7 @@
 
 # ✨ About Me:
 - 🔬 ServiceNow Developer & Admin with experience in ITSM and CMDB solutions
-- 🎓 Undergraduate Software Engineering Student
+- 🎓 Software Engineer
 - 🎨 Graphic Designer Lead at GDGoC 2025
 - 💪 Served as a Core Graphic Team Member for GDGoC in 2023 and 2024
 - 🔄 Passionate about automation, workflow optimization, and backend development
