@@ -2,7 +2,7 @@
 <h3 align="center">ServiceNow Developer | ServiceNow Admin | Backend Developer | Graphic Designer | Transforming Digital Workflows</h3>
 
 # ✨ About Me:
-- 🔬 ServiceNow Developer & Admin with experience in ITSM and CMDB solutions
+- 🔬 ServiceNow Developer & Admin with experience in ITSM, CSM and CMDB solutions
 - 🎓 Software Engineer
 - 🎨 Graphic Designer Lead at GDGoC 2025
 - 💪 Served as a Core Graphic Team Member for GDGoC in 2023 and 2024
